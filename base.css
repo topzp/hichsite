@@ -731,3 +731,6 @@ li, ul {
 .nav .more-item:last-child {
     margin-bottom: 26px;
 }
+.more-item:hover, .List a:hover {
+  color: #446ACC;
+}
